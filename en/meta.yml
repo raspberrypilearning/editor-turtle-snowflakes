@@ -1,14 +1,33 @@
-title: Project title in sentence case
+---
+title: Turtle snowflakes
 hero_image: images/banner.png
-description: A short description of the project
-listed: false
-pdf: false
+description: Write code to draw snowflakes with Python Turtle
+original_url: https://raspberrypi.org/learning/turtle-snowflakes
+theme: navy
+duration: 1
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
+interests: art
+technologies: python
+site_areas: projects
+hardware: ''
+software: python
+version: 4
+last_tested: 2017-01-01
 steps:
-  - title: What you will make
-  - title: Step title
-    completion:
-      - engaged      
-  - title: Challenge
-    challenge: true
-    completion:
-      - external
+- title: Introduction
+- title: How to draw with Python Turtle
+- title: How to turn with Python Turtle
+  completion:
+  - engaged
+- title: Using loops to create shapes
+- title: Creating spiral patterns
+- title: Changing the pen colour randomly
+- title: Using a function to draw a snowflake
+  completion:
+  - internal
+- title: 'Challenge: every snowflake is different'
+  completion:
+  - external
