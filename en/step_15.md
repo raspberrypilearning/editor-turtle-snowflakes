@@ -23,7 +23,7 @@ for i in range(8):
     elsa.left(45)
 --- /code ---
 
---- /task ---
+
 
 --- task ---
 
