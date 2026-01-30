@@ -9,6 +9,9 @@ To draw shapes the turtle needs to turn.
 
 In your code, add a line to turn `my_turtle`.
 
+--- /task ---
+
+<div class="c-project-code">
 --- code ---
 ---
 language: python
@@ -31,6 +34,7 @@ my_turtle.right(90)
 Click on **Run** to run the Turtle program. Experiment with `right` and `left` to change the direction. Change the number to turn more or less.
 
 --- /task ---
+</div>
 
 
 <div class="c-project-callout c-project-callout--tip">
