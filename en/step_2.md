@@ -1,14 +1,11 @@
-## How to draw with Python Turtle
-
+<h2 class="c-project-heading--task">Make the turtle move</h2>
 --- task ---
 
-Open the [Turtle Snow Flakes starter project](https://editor.raspberrypi.org/en/projects/turtle-snowflakes-starter){:target="_blank"}.
+Tell your turtle to move forward `100`. Give it a go!
 
 --- /task ---
 
---- task ---
-
-To begin using Turtle in Python, you need to import the Turtle library. At the top of the text editor window, type `import turtle`.
+<div class="c-project-code">
 
 --- code ---
 ---
@@ -16,59 +13,23 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 1
----
-import turtle
---- /code ---
-
---- /task ---    
-
---- task ---
-
-Time to give your turtle a name! You can use a variable to do this. Here it is called `elsa`, but you can name yours whatever you like.
-
---- code ---
----
-language: python
-filename: main.py
-line_numbers: true
-line_number_start: 1
-line_highlights: 3
+line_highlights: 5
 ---
 import turtle
 
-elsa = turtle.Turtle()
+my_turtle = turtle.Turtle()
+
+my_turtle.forward(100)
 --- /code ---
---- /task ---  
 
 --- task ---
 
-Now you can tell your turtle what to do, for example, to move forward `100`. Give it a go!
-
---- code ---
----
-language: python
-filename: main.py
-line_numbers: true
-line_number_start: 1
-line_highlights: 4
----
-import turtle
-
-elsa = turtle.Turtle()
-elsa.forward(100)
---- /code ---
-
---- /task ---
-
---- task ---
-
-Click on **Run** to run your first Turtle program. What happens?
+Click on **Run** to run the Turtle program. Change the number to move it further or less.
 
 --- /task ---  
+</div>
 
+<div class="c-project-output">
 
-![](images/import-turtle.png)
-
-
-If you have a [Raspberry Pi Foundation account](https://my.raspberrypi.org/signup){:target="_blank"}, you can save your work.
+![ADD ALT TEXT](images/import-turtle.png)
+</div>

@@ -5,7 +5,7 @@ description: Write code to draw snowflakes with Python Turtle
 original_url: https://raspberrypi.org/learning/turtle-snowflakes
 theme: navy
 duration: 1
-listed: true
+listed: false
 ingredient: false
 copyedit: true
 curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
@@ -17,17 +17,25 @@ software: python
 version: 4
 last_tested: 2017-01-01
 steps:
-- title: Introduction
-- title: How to draw with Python Turtle
-- title: How to turn with Python Turtle
+- title: Step 1
+- title: Step 2
+- title: Step 3
   completion:
   - engaged
-- title: Using loops to create shapes
-- title: Creating spiral patterns
-- title: Changing the pen colour randomly
-- title: Using a function to draw a snowflake
+- title: Step 4
+- title: Step 5
+- title: Step 6
+- title: Step 7
+- title: Step 8
+- title: Step 9
+- title: Step 10
+- title: Step 11
+- title: Step 12
+- title: Step 13
+- title: Step 14
+- title: Step 15
   completion:
   - internal
-- title: 'Challenge: every snowflake is different'
+- title: Step 16
   completion:
   - external

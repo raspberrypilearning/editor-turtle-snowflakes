@@ -1,9 +1,52 @@
---- challenge ---
+START HERE!!!!!
 
-## Challenge: every snowflake is different
+<h2 class="c-project-heading--task">STEP TITLE</h2>
+--- task ---
 
-- Can you uncomment the random colour instruction and place it in the function, so that each branch has a different colour?
-- Can you create a snowflake function and then repeat it all over the visual output to create a snowflake landscape?
-- Can you draw snowflakes of different colours and different sizes, like those in Carrie Anne's video [Make snowflakes with code](https://www.youtube.com/watch?v=DHmeX7YTHBY)?
+BRIEF SUMMARY OF STEP - one line
 
---- /challenge ---
+--- /task ---
+
+## Changing the pen colour randomly
+
+So far the turtle has been drawing black lines on a white background. Now it's time to add colour!
+
+--- task ---
+
+Set the colour of the turtle.
+
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 1
+line_highlights: 4
+---
+import turtle
+
+elsa = turtle.Turtle()
+elsa.color("cyan")
+
+for i in range(10):
+--- /code ---
+
+--- /task ---
+
+--- collapse ---
+
+---
+title: Color and Colour
+---
+The spelling of 'colour' is different in other countries. In the US, it is spelled 'color', and in Python it has to be spelled the American way to work.
+--- /collapse ---
+
+
+`cyan` is used in the example above, but you can use any from this list:
+
+- "blue"
+- "magenta"
+- "grey"
+- "purple"
+
+--- task ---

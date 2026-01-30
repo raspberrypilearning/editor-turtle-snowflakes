@@ -1,41 +1,30 @@
-## Using loops to create shapes
-
-To create a square, you have repeated some lines of code. This is not the most efficent way of doing it. Instead of typing out many lines of code, it's easier to use a loop.
-
-Instead of code to create a square like this:
-  
-```python
-elsa.forward(100)
-elsa.right(90)
-elsa.forward(100)
-elsa.right(90)
-elsa.forward(100)
-elsa.right(90)
-elsa.forward(100)
-```
-
+<h2 class="c-project-heading--task">Make a square</h2>
 --- task ---
 
-Use a loop to create a square.
+Try adding the following code to to make a square
 
+--- /task ---
+
+<div class="c-project-code">
 --- code ---
 ---
 language: python
 filename: main.py
 line_numbers: true
-line_number_start: 1
-line_highlights: 5-7
+line_number_start: 5
+line_highlights: 7
 ---
-import turtle
+my_turtle.forward(100)
+my_turtle.right(90)
+my_turtle.forward(100)
+my_turtle.right(90)
+my_turtle.forward(100)
+--- /code ---
 
-elsa = turtle.Turtle()
+--- task ---
 
-for i in range(4):
-    elsa.forward(100)
-    elsa.right(90)
---- /code ---  
-  
-Try it yourself, and see what happens when you save and run your code.
+Run your code to see what happens.
 
-![square drawn by the turtle in the visual output](images/turtle-loop.png)
 --- /task ---
+</div>
+
