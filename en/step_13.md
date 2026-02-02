@@ -22,6 +22,7 @@ for i in range(8):
     branch()
     my_turtle.left(45)
 --- /code ---
+</div>
 
 --- task ---
 
