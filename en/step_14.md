@@ -15,8 +15,8 @@ Add random colours to each branch so that each is a new colour.
 language: python
 filename: main.py
 line_numbers: false
-line_number_start: 1
-line_highlights: 1
+line_number_start: 
+line_highlights: 
 ---
 my_turtle.color(random.choice(colours))
 
