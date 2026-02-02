@@ -32,7 +32,7 @@ for i in range(8):
 </div>
 
 <div class="c-project-output">
-
+ 
 ![](images/snowflake2.png)
 
 </div>
