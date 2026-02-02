@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Draw a snowflake</h2>
+<h2 class="c-project-heading--task">Make a snowflake</h2>
 --- task ---
 
 Make a new shape that looks like a snowflake.

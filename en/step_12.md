@@ -7,7 +7,7 @@ Write the code to draw one branch of a snowflake.
 
 --- task ---
 
-Firt define a function called `branch`.
+First define a function called `branch`.
 
 --- /task ---
 
