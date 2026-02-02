@@ -1,13 +1,16 @@
-
- <h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">Draw a snowflake</h2>
 --- task ---
 
-BRIEF SUMMARY OF STEP - one line
+Make a new shape that looks like a snowflake.
 
 --- /task ---
 
 
-Create a list called `colours` to store colours to select from.
+--- task ---
+
+To start drawing at the side of the screen add `penup()` and `pendown()` to your code.
+
+--- /task ---
 
 --- code ---
 ---
@@ -15,14 +18,25 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 5
+line_highlights: 10-13
 ---
 import turtle
 import random
 
-elsa = turtle.Turtle()
+my_turtle = turtle.Turtle()
+my_turtle.color('blue')
+turtle.Screen().bgcolor('grey')
+
 colours = ["cyan", "purple", "white", "blue"]
 
-elsa.color("cyan")
-turtle.Screen().bgcolor("grey")
+my_turtle.penup()
+my_turtle.forward(90)
+my_turtle.left(45)
+my_turtle.pendown()
 --- /code ---
+--- task ---
+
+**Run** your code and check the pen moves.
+
+--- /task --- 
+  

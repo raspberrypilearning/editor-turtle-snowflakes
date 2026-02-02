@@ -1,57 +1,65 @@
-
-
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">Draw a branch </h2>
 --- task ---
 
-BRIEF SUMMARY OF STEP - one line
+Write the code to draw one branch of a snowflake.
 
 --- /task ---
 
+--- task ---
 
+Firt define a function called `branch`.
 
+--- /task ---
 
 --- task ---
 
+Then delete the code from the previous shape you made and add new code indented inside the `branch` function. This is called at the end with `branch()`.
 
+--- /task ---
 
-At the end of the loop, below `elsa.right(36)`, choose a random colour
-
+<div class="c-project-code">
 --- code ---
 ---
 language: python
 filename: main.py
 line_numbers: true
 line_number_start: 10
-line_highlights: 17
+line_highlights: 15-27
 ---
-for i in range(10):
-    for i in range(2):
-        elsa.forward(100)
-        elsa.right(60)
-        elsa.forward(100)
-        elsa.right(120)
-    elsa.right(36)
-    elsa.color(random.choice(colours))
+my_turtle.penup()
+my_turtle.forward(90)
+my_turtle.left(45)
+my_turtle.pendown()
+
+def branch():
+    for i in range(3):
+        for i in range(3):
+            my_turtle.forward(30)
+            my_turtle.backward(30)
+            my_turtle.right(45)
+        my_turtle.left(90)
+        my_turtle.backward(30)
+        my_turtle.left(45)
+    my_turtle.right(90)
+    my_turtle.forward(90)
+
+branch()
 --- /code ---
 
-**Note**: make sure this line is also indented, so that your program knows it's within the loop.
-
---- /task ---
-
 --- task ---
+**Test:** click run and try it out.
+--- /task ---  
 
-Save and run your code for a multi-coloured snowflake!
+</div>
 
-![](images/colour-list.png)
+![branch](images/branch.PNG)
+  
+<div class="c-project-callout c-project-callout--debug">
 
---- /task ---
+### Debugging
+
+Make sure to check that all your indentation is correct.
+
+</div>
 
 
---- collapse ---
----
-title: More colours
----
-
-There are a lot more colours you can choose from! Have a look at [this website](https://wiki.tcl.tk/37701) for a complete list.
-
---- /collapse ---

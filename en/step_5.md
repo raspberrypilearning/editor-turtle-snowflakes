@@ -1,19 +1,13 @@
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">Use a loop</h2>
 --- task ---
 
-Use a loop to create a square.
+Instead of typing out many lines of code, it's easier to use a loop.
 
 --- /task ---
 
-
-<h2 class="c-project-heading--explainer">Using loops to create shapes</h2>
-
-To create a square, you have repeated some lines of code. Instead of typing out many lines of code, it's easier to use a loop.
-
-
 --- task ---
 
-Edit your code, put it in a loop to create a square.
+Put it in a loop to create a square.
 
 --- /task ---
 
@@ -23,11 +17,9 @@ Edit your code, put it in a loop to create a square.
 language: python
 filename: main.py
 line_numbers: true
-line_number_start: 1
+line_number_start: 3
 line_highlights: 5-7
 ---
-import turtle
-
 my_turtle = turtle.Turtle()
 
 for i in range(4):
@@ -36,11 +28,19 @@ for i in range(4):
 --- /code ---  
 --- task ---
   
-Try and see what happens when you run your code.
+See what happens when you **run** your code.
 
 --- /task ---
 </div>
 
+<div class="c-project-output">
 ![square drawn by the turtle in the visual output](images/turtle-loop.png)
 </div>
 
+<div class="c-project-callout c-project-callout--debug">
+
+### Debugging
+
+Make sure your code is indented like the example.
+
+</div>

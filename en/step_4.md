@@ -11,9 +11,13 @@ Try adding the following code to to make a square
 language: python
 filename: main.py
 line_numbers: true
-line_number_start: 5
-line_highlights: 7
+line_number_start: 3
+line_highlights: 7-11
 ---
+my_turtle = turtle.Turtle()
+
+my_turtle.forward(100)
+my_turtle.right(90)
 my_turtle.forward(100)
 my_turtle.right(90)
 my_turtle.forward(100)

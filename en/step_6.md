@@ -1,13 +1,7 @@
-<h2 class="c-project-heading--task">Spiral patterns</h2>
+<h2 class="c-project-heading--task">Create different shapes</h2>
 --- task ---
 
-Create some different shapes and repeat them to make a snowflake-like spiral.
-
---- /task ---
-
---- task ---
-
-Replace the code for your square with the following:
+Replace the code for your square with the following, and experiment to make different shapes.
 
 --- /task ---
 
@@ -22,13 +16,13 @@ line_highlights: 5-9
 ---
 import turtle
 
-elsa = turtle.Turtle()
+my_turtle = turtle.Turtle()
 
 for i in range(2):
-    elsa.forward(100)
-    elsa.right(60)
-    elsa.forward(100)
-    elsa.right(120)
+    my_turtle.forward(100)
+    my_turtle.right(60)
+    my_turtle.forward(100)
+    my_turtle.right(120)
 --- /code --- 
 
 --- task ---
@@ -41,4 +35,4 @@ for i in range(2):
 
 <div class="c-project-output">
  ![ADD TEXT](images/parallelogram.png)
- </div>
+</div>

@@ -1,12 +1,12 @@
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">Set the background</h2>
 --- task ---
 
-BRIEF SUMMARY OF STEP - one line
+Change the colour of the background by adding the code below.
 
 --- /task ---
 
-Change the colour of the background window. To set the colour of the background.
 
+<div class="c-project-code">
 --- code ---
 ---
 language: python
@@ -17,13 +17,20 @@ line_highlights: 5
 ---
 import turtle
 
-elsa = turtle.Turtle()
-elsa.color("cyan")
-turtle.Screen().bgcolor("blue")
+my_turtle = turtle.Turtle()
+my_turtle.color('blue')
+turtle.Screen().bgcolor('grey')
 
 for i in range(10):
 --- /code ---
+--- task ---
 
-![](images/colour.png)
+**Run** the code then experiment with other colours. 
 
+--- /task ---
+
+</div>
+<div class="c-project-output">
+![ADD TEXT](images/colour.png)
+</div>
 

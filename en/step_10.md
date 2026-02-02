@@ -1,57 +1,72 @@
-
-
-<h2 class="c-project-heading--task">STEP TITLE</h2>
+<h2 class="c-project-heading--task">Add a random colour</h2>
 --- task ---
 
-BRIEF SUMMARY OF STEP - one line
-
---- /task ---
-
-
-For fun you can add a random colour for your turtle, so that every time you run your code, you will get a slightly different snowflake. 
-
---- task ---
-
-First you will need to import the `random` library: below `import turtle`, type `import random`.
-
---- code ---
----
-language: python
-filename: main.py
-line_numbers: true
-line_number_start: 1
-line_highlights: 2
----
-import turtle
-import random
-
-elsa = turtle.Turtle()
-elsa.color("cyan")
-turtle.Screen().bgcolor("blue")
-
---- /code ---
+Add the code so that every time you run your code, you will get a slightly different snowflake.
 
 --- /task ---
 
 
 --- task ---
 
-Next, change the background colour from `"blue"` to `"grey"`.
+First import the `random` library. Then create a list called `colours` to store colours to select from.
 
+--- /task ---
+
+--- task ---
+
+At the end of the loop, choose a random colour
+
+--- /task ---
+
+<div class="c-project-code">
 --- code ---
 ---
 language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 6
+line_highlights: 2, 7, 18
 ---
 import turtle
 import random
 
-elsa = turtle.Turtle()
-elsa.color("cyan")
-turtle.Screen().bgcolor("grey")
+my_turtle = turtle.Turtle()
+my_turtle.color('blue')
+turtle.Screen().bgcolor('grey')
+colours = ["cyan", "purple", "white", "blue"]
+
+my_turtle = turtle.Turtle()
+
+for i in range(10):
+    for i in range(2):
+        my_turtle.forward(100)
+        my_turtle.right(60)
+        my_turtle.forward(100)
+        my_turtle.right(120)
+    my_turtle.right(36)
+    my_turtle.color(random.choice(colours))
 --- /code ---
 
---- /task --- 
+--- task ---
+
+**Test** your code, and experiment with adding colours to your list.
+
+--- /task ---
+
+</div>
+
+
+<div class="c-project-output">
+![ADD text](images/colour-list.png)
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+
+There are a lot more colours you can choose from! Have a look at [this website](https://wiki.tcl.tk/37701) for a complete list.
+
+</div>
+
+

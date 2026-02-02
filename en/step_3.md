@@ -1,15 +1,10 @@
 <h2 class="c-project-heading--task">Turn your turtle</h2>
 --- task ---
 
-To draw shapes the turtle needs to turn.
+To draw shapes add code that **turns** `my_turtle`.
  
 --- /task ---
 
---- task ---
-
-In your code, add a line to turn `my_turtle`.
-
---- /task ---
 
 <div class="c-project-code">
 --- code ---
