@@ -21,6 +21,7 @@ line_number_start: 3
 line_highlights: 5-7
 ---
 my_turtle = turtle.Turtle()
+my_turtle.speed(20)
 
 for i in range(4):
     my_turtle.forward(100)

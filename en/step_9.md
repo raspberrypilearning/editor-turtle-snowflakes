@@ -18,6 +18,7 @@ line_highlights: 5
 import turtle
 
 my_turtle = turtle.Turtle()
+my_turtle.speed(20)
 my_turtle.color('blue')
 turtle.Screen().bgcolor('grey')
 

@@ -18,6 +18,7 @@ line_highlights: 6
 import turtle
 
 my_turtle = turtle.Turtle()
+my_turtle.speed(20)
 
 my_turtle.forward(100)
 my_turtle.right(90)

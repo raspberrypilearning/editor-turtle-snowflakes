@@ -20,6 +20,7 @@ line_highlights: 4
 import turtle
 
 my_turtle = turtle.Turtle()
+my_turtle.speed(20)
 my_turtle.color('blue')
 
 for i in range(10):

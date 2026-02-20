@@ -18,13 +18,14 @@ line_highlights: 5
 import turtle
 
 my_turtle = turtle.Turtle()
+my_turtle.speed(20)
 
 my_turtle.forward(100)
 --- /code ---
 
 --- task ---
 
-Click on **Run** to run the Turtle program. Change the number to move it further or less.
+Click on **Run** to run the Turtle program. Change the speed number if you want the turtle to draw faster or slower. Change the forward number to move it further or less. 
 
 --- /task ---  
 </div>

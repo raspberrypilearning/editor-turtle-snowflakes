@@ -2,8 +2,8 @@ import turtle
 import random
 
 my_turtle = turtle.Turtle()
+my_turtle.speed(200)
 turtle.Screen().bgcolor("grey")
-turtle.speed(0)
 colours = ["cyan", "purple", "white", "blue"]
 
 
