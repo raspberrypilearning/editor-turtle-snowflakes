@@ -22,6 +22,7 @@ my_turtle.speed(4)
 my_turtle.color('blue')
 turtle.Screen().bgcolor('grey')
 
+# Make a shape
 for i in range(10):
 --- /code ---
 --- task ---

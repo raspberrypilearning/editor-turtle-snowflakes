@@ -24,8 +24,9 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 10
-line_highlights: 15-27
+line_highlights: 16-28
 ---
+# Make a shape
 my_turtle.penup()
 my_turtle.forward(90)
 my_turtle.left(45)

@@ -12,11 +12,12 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 3
-line_highlights: 8-12
+line_highlights: 9-13
 ---
 my_turtle = turtle.Turtle()
 my_turtle.speed(4)
 
+# Make a shape
 my_turtle.forward(100)
 my_turtle.right(90)
 my_turtle.forward(100)

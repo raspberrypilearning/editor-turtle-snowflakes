@@ -25,7 +25,7 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 10-13
+line_highlights: 11-14
 ---
 import turtle
 import random
@@ -36,6 +36,7 @@ my_turtle.color('blue')
 turtle.Screen().bgcolor('grey')
 colours = ["cyan", "purple", "white", "blue"]
 
+# Make a shape
 my_turtle.penup()
 my_turtle.forward(90)
 my_turtle.left(45)

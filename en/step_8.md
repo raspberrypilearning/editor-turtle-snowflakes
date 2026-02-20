@@ -21,6 +21,7 @@ my_turtle = turtle.Turtle()
 my_turtle.speed(4)
 my_turtle.color('blue')
 
+# Make a shape
 for i in range(10):
 --- /code ---
 
