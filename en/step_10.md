@@ -31,12 +31,10 @@ import turtle
 import random
 
 my_turtle = turtle.Turtle()
-my_turtle.speed(20)
+my_turtle.speed(4)
 my_turtle.color('blue')
 turtle.Screen().bgcolor('grey')
 colours = ["cyan", "purple", "white", "blue"]
-
-my_turtle = turtle.Turtle()
 
 for i in range(10):
     for i in range(2):

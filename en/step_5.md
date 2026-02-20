@@ -7,7 +7,7 @@ Instead of typing out many lines of code, it's easier to use a loop.
 
 --- task ---
 
-Put it in a loop to create a square.
+**Delete the code** you added to make a square. Put the first two lines in a loop.
 
 --- /task ---
 
@@ -21,7 +21,7 @@ line_number_start: 3
 line_highlights: 6-8
 ---
 my_turtle = turtle.Turtle()
-my_turtle.speed(20)
+my_turtle.speed(4)
 
 for i in range(4):
     my_turtle.forward(100)

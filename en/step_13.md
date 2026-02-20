@@ -13,7 +13,7 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 24
-line_highlights: 28-30
+line_highlights: 27-29
 ---
     my_turtle.right(90)
     my_turtle.forward(90)

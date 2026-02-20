@@ -17,7 +17,7 @@ line_highlights: 6-10
 import turtle
 
 my_turtle = turtle.Turtle()
-my_turtle.speed(20)
+my_turtle.speed(4)
 
 for i in range(2):
     my_turtle.forward(100)

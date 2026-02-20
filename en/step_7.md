@@ -21,7 +21,7 @@ line_number_start: 3
 line_highlights: 6-12
 ---
 my_turtle = turtle.Turtle()
-my_turtle.speed(20)
+my_turtle.speed(4)
 
 for i in range(10):
     for i in range(2):

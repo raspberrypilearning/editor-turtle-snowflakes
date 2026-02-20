@@ -15,7 +15,7 @@ line_number_start: 3
 line_highlights: 8-12
 ---
 my_turtle = turtle.Turtle()
-my_turtle.speed(20)
+my_turtle.speed(4)
 
 my_turtle.forward(100)
 my_turtle.right(90)
