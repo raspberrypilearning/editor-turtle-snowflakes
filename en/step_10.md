@@ -14,7 +14,7 @@ First import the `random` library. Then create a list called `colours` to store 
 
 --- task ---
 
-At the end of the loop, choose a random colour
+At the end of the loop, choose a random colour from the list.
 
 --- /task ---
 
@@ -25,7 +25,7 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 2, 7, 18
+line_highlights: 2, 8, 19
 ---
 import turtle
 import random

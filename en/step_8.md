@@ -1,5 +1,3 @@
-START HERE!!!!!
-
 <h2 class="c-project-heading--task">Changing colours</h2>
 --- task ---
 
@@ -15,7 +13,7 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 4
+line_highlights: 5
 ---
 import turtle
 

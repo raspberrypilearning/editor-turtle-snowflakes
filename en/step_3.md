@@ -13,7 +13,7 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 6
+line_highlights: 7
 ---
 import turtle
 

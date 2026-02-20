@@ -13,7 +13,7 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 5
+line_highlights: 6
 ---
 import turtle
 
@@ -32,6 +32,7 @@ for i in range(10):
 
 </div>
 <div class="c-project-output">
-![ADD TEXT](images/colour.png)
+Here is an example of the snowflake on a blue background
+![example of the snowflake on a blue background](images/colour.png)
 </div>
 

@@ -7,17 +7,18 @@ You can put loops inside of other loops to repeat and overlap shapes.
 
 --- task ---
 
-Add another loop in the line above `for i in range(2):`. 
+Add an outer loop in the line above `for i in range(2):`. 
 
 --- /task ---
 
+<div class="c-project-code">
 --- code ---
 ---
 language: python
 filename: main.py
 line_numbers: true
 line_number_start: 3
-line_highlights: 5-11
+line_highlights: 6-12
 ---
 my_turtle = turtle.Turtle()
 my_turtle.speed(20)

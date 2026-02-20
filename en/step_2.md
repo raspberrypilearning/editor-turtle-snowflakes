@@ -13,7 +13,7 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 5
+line_highlights: 6
 ---
 import turtle
 
@@ -25,7 +25,7 @@ my_turtle.forward(100)
 
 --- task ---
 
-Click on **Run** to run the Turtle program. Change the speed number if you want the turtle to draw faster or slower. Change the forward number to move it further or less. 
+Click on **Run** to run the Turtle program. Change the **speed** number if you want the turtle to draw faster or slower. Change the **forward** number to move it more or less. 
 
 --- /task ---  
 </div>

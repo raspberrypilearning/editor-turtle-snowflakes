@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Draw a branch </h2>
+<h2 class="c-project-heading--task">Draw a branch</h2>
 --- task ---
 
 Write the code to draw one branch of a snowflake.
@@ -13,7 +13,7 @@ First define a function called `branch`.
 
 --- task ---
 
-Then delete the code from the previous shape you made and add new code indented inside the `branch` function. This is called at the end with `branch()`.
+Then **delete the code** from the previous shape you made and add new code indented inside the `branch` function. This is called at the end with `branch()`.
 
 --- /task ---
 
@@ -24,7 +24,7 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 10
-line_highlights: 15-27
+line_highlights: 16-28
 ---
 my_turtle.penup()
 my_turtle.forward(90)

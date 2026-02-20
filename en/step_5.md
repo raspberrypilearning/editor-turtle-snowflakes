@@ -18,7 +18,7 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 3
-line_highlights: 5-7
+line_highlights: 6-8
 ---
 my_turtle = turtle.Turtle()
 my_turtle.speed(20)

@@ -12,13 +12,14 @@ To start drawing at the side of the screen add `penup()` and `pendown()` to your
 
 --- /task ---
 
+<div class="c-project-code">
 --- code ---
 ---
 language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 10-13
+line_highlights: 11-14
 ---
 import turtle
 import random
@@ -27,7 +28,6 @@ my_turtle = turtle.Turtle()
 my_turtle.speed(20)
 my_turtle.color('blue')
 turtle.Screen().bgcolor('grey')
-
 colours = ["cyan", "purple", "white", "blue"]
 
 my_turtle.penup()
