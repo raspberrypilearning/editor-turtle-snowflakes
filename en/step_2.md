@@ -13,13 +13,14 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 6
+line_highlights: 6-7
 ---
 import turtle
 
 my_turtle = turtle.Turtle()
 my_turtle.speed(4)
 
+# Make a shape
 my_turtle.forward(100)
 --- /code ---
 
