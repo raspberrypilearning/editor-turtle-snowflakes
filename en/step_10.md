@@ -46,14 +46,13 @@ for i in range(10):
     my_turtle.right(36)
     my_turtle.color(random.choice(colours))
 --- /code ---
+</div>
 
 --- task ---
 
 **Test** your code, and experiment with adding colours to your list.
 
 --- /task ---
-
-</div>
 
 
 <div class="c-project-output">
@@ -68,5 +67,4 @@ for i in range(10):
 There are a lot more colours you can choose from! Have a look at [this website](https://wiki.tcl.tk/37701) for a complete list.
 
 </div>
-
 

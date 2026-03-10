@@ -25,15 +25,13 @@ turtle.Screen().bgcolor('grey')
 # Make a shape
 for i in range(10):
 --- /code ---
+</div>
 --- task ---
 
 **Run** the code then experiment with other colours. 
 
 --- /task ---
-
-</div>
 <div class="c-project-output">
 Here is an example of the snowflake on a blue background
 ![example of the snowflake on a blue background](images/colour.png)
 </div>
-

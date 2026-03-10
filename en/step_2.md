@@ -23,13 +23,13 @@ my_turtle.speed(4)
 # Make a shape
 my_turtle.forward(100)
 --- /code ---
+</div>
 
 --- task ---
 
 Click on **Run** to run the Turtle program. Change the **forward** number to move it more or less. 
 
 --- /task ---  
-</div>
 
 <div class="c-project-output">
 

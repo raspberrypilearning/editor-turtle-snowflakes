@@ -46,12 +46,13 @@ def branch():
 
 branch()
 --- /code ---
+</div>
 
 --- task ---
-**Test:** click run and try it out.
---- /task ---  
 
-</div>
+**Test:** click run and try it out.
+
+--- /task ---  
 
 ![branch](images/branch.PNG)
   
@@ -62,5 +63,4 @@ branch()
 Make sure to check that all your indentation is correct.
 
 </div>
-
 

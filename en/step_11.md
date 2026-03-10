@@ -42,6 +42,7 @@ my_turtle.forward(90)
 my_turtle.left(45)
 my_turtle.pendown()
 --- /code ---
+</div>
 --- task ---
 
 **Run** your code and check the pen moves.

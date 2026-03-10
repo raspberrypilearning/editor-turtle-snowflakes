@@ -26,11 +26,10 @@ my_turtle.forward(100)
 my_turtle.right(90)
 my_turtle.forward(100)
 --- /code ---
+</div>
 
 --- task ---
 
 Run your code to see what happens.
 
 --- /task ---
-</div>
-

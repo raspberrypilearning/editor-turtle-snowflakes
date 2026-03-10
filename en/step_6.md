@@ -26,14 +26,13 @@ for i in range(2):
     my_turtle.forward(100)
     my_turtle.right(120)
 --- /code --- 
+</div>
 
 --- task ---
 
  Run the code and it will draw a shape called a parallelogram.
   
 --- /task ---
-
-</div>
 
 <div class="c-project-output">
  ![ADD TEXT](images/parallelogram.png)

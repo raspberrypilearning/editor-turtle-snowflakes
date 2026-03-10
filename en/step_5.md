@@ -28,12 +28,12 @@ for i in range(4):
     my_turtle.forward(100)
     my_turtle.right(90)
 --- /code ---  
+</div>
 --- task ---
   
 See what happens when you **run** your code.
 
 --- /task ---
-</div>
 
 <div class="c-project-output">
 ![square drawn by the turtle in the visual output](images/turtle-loop.png)

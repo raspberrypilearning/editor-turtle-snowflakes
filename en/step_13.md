@@ -22,6 +22,7 @@ for i in range(8):
     branch()
     my_turtle.left(45)
 --- /code ---
+</div>
 
 
 --- task ---
@@ -29,7 +30,6 @@ for i in range(8):
 **Run** your code, the turtle should be drawing the snowflake.
 
 --- /task ---
-</div>
 
 <div class="c-project-output">
  

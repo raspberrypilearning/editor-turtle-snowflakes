@@ -25,13 +25,13 @@ my_turtle.forward(100)
 my_turtle.right(90)
 
 --- /code ---
+</div>
 
 --- task ---
 
 Click on **Run** to run the Turtle program. Experiment with `right` and `left` to change the direction. Change the number to turn more or less.
 
 --- /task ---
-</div>
 
 
 <div class="c-project-callout c-project-callout--tip">

@@ -32,13 +32,13 @@ for i in range(10):
         my_turtle.right(120)
     my_turtle.right(36)
 --- /code --- 
+</div>
 
 --- task ---
 
 **Run** your code to see what happens. You should see a drawing like this:  
   
 --- /task ---
-</div>
 
 <div class="c-project-output">
 
@@ -53,6 +53,5 @@ for i in range(10):
 Make sure to indent the code below a loop.
 
 </div>
-
 
 

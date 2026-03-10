@@ -24,13 +24,13 @@ my_turtle.color('blue')
 # Make a shape
 for i in range(10):
 --- /code ---
+</div>
 
 --- task ---
 
 **Run** the code then experiment with other colours. 
 
 --- /task ---
-</div>
 
 <div class="c-project-callout c-project-callout--tip">
 
