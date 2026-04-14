@@ -1,19 +1,18 @@
-<h2 class="c-project-heading--task">Make the turtle move</h2>
---- task ---
+<h2 class="c-project-heading--task">Turn your turtle</h2>
+### Step 1
 
-Tell your turtle to move forward `100`. Give it a go!
+To draw shapes add code that **turns** `my_turtle`.
+ 
 
---- /task ---
 
 <div class="c-project-code">
-
 --- code ---
 ---
 language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 6-7
+line_highlights: 8
 ---
 import turtle
 
@@ -22,24 +21,21 @@ my_turtle.speed(4)
 
 # Make a shape
 my_turtle.forward(100)
+my_turtle.right(90)
+
 --- /code ---
 </div>
 
---- task ---
+### Step 2
 
-Click on **Run** to run the Turtle program. Change the **forward** number to move it more or less. 
+Click on **Run** to run the Turtle program. Experiment with `right` and `left` to change the direction. Change the number to turn more or less.
 
---- /task ---  
 
-<div class="c-project-output">
-
-![ADD ALT TEXT](images/import-turtle.png)
-</div>
 
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-Edit the **speed** number in the starter code to have the turtle draw faster or slower. 
+The value `90` inside the brackets is in degrees. So this line is telling your turtle to turn right by 90 degrees.
 
 </div>

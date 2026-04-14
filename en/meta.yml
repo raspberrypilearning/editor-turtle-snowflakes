@@ -16,24 +16,25 @@ hardware: ''
 software: python
 version: 4
 last_tested: 2017-01-01
+landing: true
 steps:
-- title: Step 1
-- title: Step 2
-- title: Step 3
-  completion:
-  - engaged
-- title: Step 4
-- title: Step 5
-- title: Step 6
-- title: Step 7
-- title: Step 8
-- title: Step 9
-- title: Step 10
-- title: Step 11
-- title: Step 12
-- title: Step 13
-  completion:
-  - internal
-- title: Step 14
-  completion:
-  - external
+  - title: Make the turtle move
+  - title: Turn your turtle
+    completion:
+      - engaged
+  - title: Make a square
+  - title: Use a loop
+  - title: Create different shapes
+  - title: Loops in loops
+  - title: Changing colours
+  - title: Set the background
+  - title: Add a random colour
+  - title: Make a snowflake
+  - title: Draw a branch
+    completion:
+      - internal
+  - title: Repeat to make the snowflake
+    completion:
+      - external
+  - title: Challenge
+    challenge: true

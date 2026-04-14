@@ -1,13 +1,43 @@
-<h2 class="c-project-heading--task">What you will make</h2>
---- task ---
+<h2 class="c-project-heading--task">Make the turtle move</h2>
+### Step 1
 
-Create snowflake shapes using Python Turtle.
-
---- /task ---
+Tell your turtle to move forward `100`. Give it a go!
 
 
-Click **run** to see a digital snowflake made with code.
+<div class="c-project-code">
+
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 1
+line_highlights: 6-7
+---
+import turtle
+
+my_turtle = turtle.Turtle()
+my_turtle.speed(4)
+
+# Make a shape
+my_turtle.forward(100)
+--- /code ---
+</div>
+
+### Step 2
+
+Click on **Run** to run the Turtle program. Change the **forward** number to move it more or less. 
+
 
 <div class="c-project-output">
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/editor-turtle-snowflakes-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+
+![ADD ALT TEXT](images/import-turtle.png)
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+Edit the **speed** number in the starter code to have the turtle draw faster or slower. 
+
 </div>

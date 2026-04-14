@@ -1,9 +1,8 @@
-<h2 class="c-project-heading--task">Changing colours</h2>
---- task ---
+<h2 class="c-project-heading--task">Set the background</h2>
+### Step 1
 
-So far the turtle has been drawing black lines on a white background. Set the colour of the turtle in the code.
+Change the colour of the background by adding the code below.
 
---- /task ---
 
 
 <div class="c-project-code">
@@ -13,33 +12,24 @@ language: python
 filename: main.py
 line_numbers: true
 line_number_start: 1
-line_highlights: 5
+line_highlights: 6
 ---
 import turtle
 
 my_turtle = turtle.Turtle()
 my_turtle.speed(4)
 my_turtle.color('blue')
+turtle.Screen().bgcolor('grey')
 
 # Make a shape
 for i in range(10):
 --- /code ---
 </div>
-
---- task ---
+### Step 2
 
 **Run** the code then experiment with other colours. 
 
---- /task ---
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-`blue` is used in the example above, but you can use many colours, including any from this list:
-
-- 'orange'
-- 'yellow'
-- 'purple'
-
+<div class="c-project-output">
+Here is an example of the snowflake on a blue background
+![example of the snowflake on a blue background](images/colour.png)
 </div>

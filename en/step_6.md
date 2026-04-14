@@ -1,9 +1,13 @@
-<h2 class="c-project-heading--task">Create different shapes</h2>
---- task ---
+<h2 class="c-project-heading--task">Loops in loops</h2>
+### Step 1
 
-Replace the code for your square with the following, and experiment to make different shapes.
+You can put loops inside of other loops to repeat and overlap shapes.
 
---- /task ---
+
+### Step 2
+
+Add an outer loop in the line above `for i in range(2):`. 
+
 
 <div class="c-project-code">
 --- code ---
@@ -11,29 +15,38 @@ Replace the code for your square with the following, and experiment to make diff
 language: python
 filename: main.py
 line_numbers: true
-line_number_start: 1
-line_highlights: 7-11
+line_number_start: 3
+line_highlights: 7-13
 ---
-import turtle
-
 my_turtle = turtle.Turtle()
 my_turtle.speed(4)
 
 # Make a shape
-for i in range(2):
-    my_turtle.forward(100)
-    my_turtle.right(60)
-    my_turtle.forward(100)
-    my_turtle.right(120)
+for i in range(10):
+    for i in range(2):
+        my_turtle.forward(100)
+        my_turtle.right(60)
+        my_turtle.forward(100)
+        my_turtle.right(120)
+    my_turtle.right(36)
 --- /code --- 
 </div>
 
---- task ---
+### Step 3
 
- Run the code and it will draw a shape called a parallelogram.
+**Run** your code to see what happens. You should see a drawing like this:  
   
---- /task ---
 
 <div class="c-project-output">
- ![ADD TEXT](images/parallelogram.png)
+
+![ADD TEXT](images/snowflake1.png)
+</div>
+
+  
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+Make sure to indent the code below a loop.
+
 </div>
