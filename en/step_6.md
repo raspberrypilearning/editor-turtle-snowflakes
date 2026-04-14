@@ -1,4 +1,5 @@
 <h2 class="c-project-heading--task">Loops in loops</h2>
+
 ### Step 1
 
 You can put loops inside of other loops to repeat and overlap shapes.

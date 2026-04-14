@@ -1,4 +1,5 @@
 <h2 class="c-project-heading--task">Set the background</h2>
+
 ### Step 1
 
 Change the colour of the background by adding the code below.

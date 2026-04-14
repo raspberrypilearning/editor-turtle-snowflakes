@@ -1,4 +1,5 @@
 <h2 class="c-project-heading--task">Make a snowflake</h2>
+
 ### Step 1
 
 Make a new shape that looks like a snowflake.

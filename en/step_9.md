@@ -1,4 +1,5 @@
 <h2 class="c-project-heading--task">Add a random colour</h2>
+
 ### Step 1
 
 Add the code so that every time you run your code, you will get a slightly different snowflake.

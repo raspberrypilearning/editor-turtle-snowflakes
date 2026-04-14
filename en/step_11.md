@@ -1,4 +1,5 @@
 <h2 class="c-project-heading--task">Draw a branch</h2>
+
 ### Step 1
 
 Write the code to draw one branch of a snowflake.

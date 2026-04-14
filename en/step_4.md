@@ -1,4 +1,5 @@
 <h2 class="c-project-heading--task">Use a loop</h2>
+
 ### Step 1
 
 Instead of typing out many lines of code, it's easier to use a loop.
