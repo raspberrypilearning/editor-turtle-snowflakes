@@ -1,10 +1,12 @@
 <h2 class="c-project-heading--task">Changing colours</h2>
 
-### Step 1
+So far the turtle has been drawing black lines on a white background.
 
-So far the turtle has been drawing black lines on a white background. Set the colour of the turtle in the code.
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
+## Step 1
 
+Set the colour of the turtle in the code.
 
 <div class="c-project-code">
 --- code ---
@@ -26,14 +28,14 @@ for i in range(10):
 --- /code ---
 </div>
 
-### Step 2
+## Step 2
 
 **Run** the code then experiment with other colours. 
 
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 `blue` is used in the example above, but you can use many colours, including any from this list:
 
@@ -42,3 +44,7 @@ for i in range(10):
 - 'purple'
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

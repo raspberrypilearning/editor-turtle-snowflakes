@@ -1,9 +1,12 @@
 <h2 class="c-project-heading--task">Make the turtle move</h2>
 
-### Step 1
+Tell your turtle to move forward `100`.
 
-Tell your turtle to move forward `100`. Give it a go!
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
+## Step 1
+
+Give it a go!
 
 <div class="c-project-code">
 
@@ -25,7 +28,7 @@ my_turtle.forward(100)
 --- /code ---
 </div>
 
-### Step 2
+## Step 2
 
 Click on **Run** to run the Turtle program. Change the **forward** number to move it more or less. 
 
@@ -35,10 +38,14 @@ Click on **Run** to run the Turtle program. Change the **forward** number to mov
 ![ADD ALT TEXT](images/import-turtle.png)
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 Edit the **speed** number in the starter code to have the turtle draw faster or slower. 
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

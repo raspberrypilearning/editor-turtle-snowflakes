@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Repeat to make the snowflake</h2>
 
-### Step 1
-
 Put `branch()` in a loop so that it draws it eight times.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
+## Step 1
 
 <div class="c-project-code">
 --- code ---
@@ -24,8 +24,7 @@ for i in range(8):
 --- /code ---
 </div>
 
-
-### Step 2
+## Step 2
 
 **Run** your code, the turtle should be drawing the snowflake.
 
@@ -35,3 +34,7 @@ for i in range(8):
 ![](images/snowflake2.png)
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

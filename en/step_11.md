@@ -1,16 +1,14 @@
 <h2 class="c-project-heading--task">Draw a branch</h2>
 
-### Step 1
-
 Write the code to draw one branch of a snowflake.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 2
+## Step 1
 
 First define a function called `branch`.
 
-
-### Step 3
+## Step 2
 
 Add code indented inside the `branch` function. This is called at the end with `branch()`.
 
@@ -46,17 +44,20 @@ branch()
 --- /code ---
 </div>
 
-### Step 4
+## Now run your code
 
-**Test:** click run and try it out.
+Click run and try it out.
 
 
+<div class="c-project-output">
 ![branch](images/branch.PNG)
-  
-<div class="c-project-callout c-project-callout--debug">
-
+</div>
 ### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
 
 Make sure to check that all your indentation is correct.
 
 </div>
+
+Confirm the observable result.

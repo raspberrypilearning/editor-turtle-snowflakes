@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">Set the background</h2>
 
-### Step 1
-
 Change the colour of the background by adding the code below.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
+## Step 1
 
 <div class="c-project-code">
 --- code ---
@@ -26,7 +26,8 @@ turtle.Screen().bgcolor('grey')
 for i in range(10):
 --- /code ---
 </div>
-### Step 2
+
+## Step 2
 
 **Run** the code then experiment with other colours. 
 
@@ -34,3 +35,7 @@ for i in range(10):
 Here is an example of the snowflake on a blue background
 ![example of the snowflake on a blue background](images/colour.png)
 </div>
+
+## Now run your code
+
+Confirm the observable result.

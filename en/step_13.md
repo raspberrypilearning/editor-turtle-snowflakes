@@ -1,11 +1,10 @@
 <h2 class="c-project-heading--task">Challenge</h2>
 
-### Step 1
-
 Make every snowflake different.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 2
+## Step 1
 
 Add random colours to each branch so that each is a new colour.
 
@@ -23,14 +22,14 @@ my_turtle.color(random.choice(colours))
 --- /code ---
 </div>
 
-
-
-### Step 3
+## Step 2
 
 Create a snowflake function and then repeat it all over the screen to create a snowflake landscape.
 
-
-
-### Step 4
+## Step 3
 
 Draw snowflakes of different colours and different sizes, like those in Carrie Anne's video [Make snowflakes with code](https://www.youtube.com/watch?v=DHmeX7YTHBY)?
+
+## Now run your code
+
+Confirm the observable result.

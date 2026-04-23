@@ -1,17 +1,14 @@
 <h2 class="c-project-heading--task">Make a snowflake</h2>
 
-### Step 1
-
 Make a new shape that looks like a snowflake.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-
-### Step 2
+## Step 1
 
 **Delete the code** from the previous shape you made.
 
-
-### Step 3
+## Step 2
 
 Start a **new shape** by drawing at the side of the screen add `penup()` and `pendown()` to your code.
 
@@ -41,6 +38,11 @@ my_turtle.left(45)
 my_turtle.pendown()
 --- /code ---
 </div>
-### Step 4
+
+## Step 3
 
 **Run** your code and check the pen moves.
+
+## Now run your code
+
+Confirm the observable result.

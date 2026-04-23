@@ -1,9 +1,10 @@
 <h2 class="c-project-heading--task">Make a square</h2>
 
-### Step 1
-
 Try adding the following code to to make a square
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 <div class="c-project-code">
 --- code ---
@@ -28,6 +29,10 @@ my_turtle.forward(100)
 --- /code ---
 </div>
 
-### Step 2
+## Step 2
 
 Run your code to see what happens.
+
+## Now run your code
+
+Confirm the observable result.

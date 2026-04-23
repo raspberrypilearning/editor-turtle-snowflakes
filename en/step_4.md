@@ -1,11 +1,10 @@
 <h2 class="c-project-heading--task">Use a loop</h2>
 
-### Step 1
-
 Instead of typing out many lines of code, it's easier to use a loop.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-### Step 2
+## Step 1
 
 **Delete the code** you added to make a square. Put the first two lines in a loop.
 
@@ -28,8 +27,9 @@ for i in range(4):
     my_turtle.right(90)
 --- /code ---  
 </div>
-### Step 3
-  
+
+## Step 2
+
 See what happens when you **run** your code.
 
 
@@ -37,10 +37,14 @@ See what happens when you **run** your code.
 ![square drawn by the turtle in the visual output](images/turtle-loop.png)
 </div>
 
-<div class="c-project-callout c-project-callout--debug">
-
 ### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
 
 Make sure your code is indented like the example.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

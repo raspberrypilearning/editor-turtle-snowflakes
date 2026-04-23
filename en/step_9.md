@@ -1,17 +1,14 @@
 <h2 class="c-project-heading--task">Add a random colour</h2>
 
-### Step 1
-
 Add the code so that every time you run your code, you will get a slightly different snowflake.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-
-### Step 2
+## Step 1
 
 First import the `random` library. Then create a list called `colours` to store colours to select from.
 
-
-### Step 3
+## Step 2
 
 At the end of the loop, choose a random colour from the list.
 
@@ -46,7 +43,7 @@ for i in range(10):
 --- /code ---
 </div>
 
-### Step 4
+## Step 3
 
 **Test** your code, and experiment with adding colours to your list.
 
@@ -56,11 +53,15 @@ for i in range(10):
 ![ADD text](images/colour-list.png)
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
 
+
+<div class="c-project-callout c-project-callout--tip">
 
 There are a lot more colours you can choose from! Have a look at [this website](https://wiki.tcl.tk/37701) for a complete list.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.
