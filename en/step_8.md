@@ -38,4 +38,4 @@ Here is an example of the snowflake on a blue background
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the snowflake is drawn on a grey background.

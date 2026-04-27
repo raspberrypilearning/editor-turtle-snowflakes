@@ -40,4 +40,4 @@ Run the code and it will draw a shape called a parallelogram.
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the turtle draws a parallelogram.

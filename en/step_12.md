@@ -37,4 +37,4 @@ for i in range(8):
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that eight branches join together to make a full snowflake.

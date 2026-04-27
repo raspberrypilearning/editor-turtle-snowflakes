@@ -64,4 +64,4 @@ There are a lot more colours you can choose from! Have a look at [this website](
 
 ## Now run your code
 
-Confirm the observable result.
+Test your code and check that different parts of the snowflake use colours from your list.

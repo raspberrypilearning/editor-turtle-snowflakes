@@ -32,4 +32,4 @@ Draw snowflakes of different colours and different sizes, like those in Carrie A
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the branches can appear in different colours and that any extra snowflakes you add show on the screen.

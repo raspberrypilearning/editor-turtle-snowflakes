@@ -46,9 +46,6 @@ branch()
 
 ## Now run your code
 
-Click run and try it out.
-
-
 <div class="c-project-output">
 ![branch](images/branch.PNG)
 </div>
@@ -60,4 +57,4 @@ Make sure to check that all your indentation is correct.
 
 </div>
 
-Confirm the observable result.
+Click **Run** and check that the code draws one snowflake branch.

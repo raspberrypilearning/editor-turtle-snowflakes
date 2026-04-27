@@ -43,4 +43,4 @@ The value `90` inside the brackets is in degrees. So this line is telling your t
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the turtle draws a line and then turns.

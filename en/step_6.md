@@ -53,4 +53,4 @@ Make sure to indent the code below a loop.
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the repeated shape makes a snowflake pattern.

@@ -47,4 +47,4 @@ Make sure your code is indented like the example.
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the loop draws a square.

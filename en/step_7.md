@@ -47,4 +47,4 @@ for i in range(10):
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the snowflake is drawn in the colour you chose.

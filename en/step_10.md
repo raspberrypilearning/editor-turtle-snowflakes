@@ -45,4 +45,4 @@ my_turtle.pendown()
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the turtle moves to a new starting point before it begins drawing.

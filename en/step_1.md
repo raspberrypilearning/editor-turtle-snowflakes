@@ -48,4 +48,4 @@ Edit the **speed** number in the starter code to have the turtle draw faster or 
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that the turtle draws a straight line.
