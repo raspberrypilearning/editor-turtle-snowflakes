@@ -1,45 +1,51 @@
-## What you will make
-OR
-## What you will do - change meta if you use this
+<h2 class="c-project-heading--task">Make the turtle move</h2>
 
-A brief description - one or two sentences. 
+Tell your turtle to move forward `100`.
 
---- print-only ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
-![ALT TEXT](images/IMAGE.png)
+## Step 1
 
---- /print-only ---
+Give it a go!
 
---- no-print ---
+<div class="c-project-code">
 
-[Editor embed](https://editor.raspberrypi.org/en/embed/viewer/project-slug)
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 1
+line_highlights: 6-7
+---
+import turtle
 
---- /no-print ---
+my_turtle = turtle.Turtle()
+my_turtle.speed(4)
 
---- no-print ---
-
-Video embed
-
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
-
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
-
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
+# Make a shape
+my_turtle.forward(100)
+--- /code ---
 </div>
 
---- /no-print ---
+## Step 2
 
-### You will need:
-- a
-- b
-- c
+Click on **Run** to run the Turtle program. Change the **forward** number to move it more or less. 
+
+
+<div class="c-project-output">
+
+![ADD ALT TEXT](images/import-turtle.png)
+</div>
+
+### Tip
+
+<div class="c-project-callout c-project-callout--tip">
+
+Edit the **speed** number in the starter code to have the turtle draw faster or slower. 
+
+</div>
+
+## Now run your code
+
+Click **Run** and check that the turtle draws a straight line.

@@ -1,0 +1,4 @@
+name: 'Turtle Snowflakes Starter'
+identifier: 'editor-turtle-snowflakes-starter'
+type: 'python'
+build: true
