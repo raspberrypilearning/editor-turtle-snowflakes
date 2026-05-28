@@ -2,8 +2,6 @@
 
 Replace the code for your square with the following, and experiment to make different shapes.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 <div class="c-project-code">
