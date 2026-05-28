@@ -2,8 +2,6 @@
 
 Instead of typing out many lines of code, it's easier to use a loop.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 **Delete the code** you added to make a square. Put the first two lines in a loop.
