@@ -2,8 +2,6 @@
 
 Change the colour of the background by adding the code below.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 <div class="c-project-code">
