@@ -2,8 +2,6 @@
 
 Try adding the following code to to make a square
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 <div class="c-project-code">
