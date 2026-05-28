@@ -2,8 +2,6 @@
 
 You can put loops inside of other loops to repeat and overlap shapes.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Add an outer loop in the line above `for i in range(2):`. 
