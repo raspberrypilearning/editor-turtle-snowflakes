@@ -2,8 +2,6 @@
 
 Add the code so that every time you run your code, you will get a slightly different snowflake.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 First import the `random` library. Then create a list called `colours` to store colours to select from.
