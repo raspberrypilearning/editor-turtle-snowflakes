@@ -2,8 +2,6 @@
 
 So far the turtle has been drawing black lines on a white background.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Set the colour of the turtle in the code.
