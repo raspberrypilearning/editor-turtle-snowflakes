@@ -2,8 +2,6 @@
 
 Tell your turtle to move forward `100`.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Give it a go!
