@@ -28,7 +28,7 @@ my_turtle.forward(100)
 
 ## Step 2
 
-Click on **Run** to run the Turtle program. Change the **forward** number to move it more or less. 
+Click on **Run** to see the line the turtle draws. Change the **forward** number to make it longer or shorter. 
 
 
 <div class="c-project-output">
@@ -40,7 +40,7 @@ Click on **Run** to run the Turtle program. Change the **forward** number to mov
 
 <div class="c-project-callout c-project-callout--tip">
 
-Edit the **speed** number in the starter code to have the turtle draw faster or slower. 
+Edit the **speed** number in the starter code to make the turtle draw faster or slower. 
 
 </div>
 
