@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Turn your turtle</h2>
 
-To draw shapes add code that **turns** `my_turtle`.
+Add code that **turns** `my_turtle` to draw your shape.
 
 ## Step 1
 
@@ -27,7 +27,7 @@ my_turtle.right(90)
 
 ## Step 2
 
-Click on **Run** to run the Turtle program. Experiment with `right` and `left` to change the direction. Change the number to turn more or less.
+Click on **Run** to see the pattern so far. Experiment with `right` and `left` to change the direction. Change the number to turn the turtle more or less.
 
 
 
@@ -35,7 +35,7 @@ Click on **Run** to run the Turtle program. Experiment with `right` and `left` t
 
 <div class="c-project-callout c-project-callout--tip">
 
-The value `90` inside the brackets is in degrees. So this line is telling your turtle to turn right by 90 degrees.
+The value `90` inside the brackets is in degrees. So this line tells your turtle to turn right by 90 degrees.
 
 </div>
 
