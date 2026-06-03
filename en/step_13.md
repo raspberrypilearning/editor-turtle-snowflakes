@@ -28,7 +28,7 @@ Create a snowflake function and then repeat it all over the screen to create a s
 
 ## Step 3
 
-Draw snowflakes of different colours and different sizes, like those in Carrie Anne's video [Make snowflakes with code](https://www.youtube.com/watch?v=DHmeX7YTHBY)?
+Draw snowflakes of different colours and different sizes, like those in Carrie Anne's video [Make snowflakes with code](https://www.youtube.com/watch?v=DHmeX7YTHBY).
 
 ## Now run your code
 
