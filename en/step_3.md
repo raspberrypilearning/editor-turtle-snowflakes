@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Make a square</h2>
 
-Try adding the following code to to make a square
+Add the following code to to make a square
 
 ## Step 1
 
