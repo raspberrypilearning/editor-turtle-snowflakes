@@ -2,8 +2,6 @@
 
 Make a new shape that looks like a snowflake.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 **Delete the code** from the previous shape you made.
@@ -39,10 +37,12 @@ my_turtle.pendown()
 --- /code ---
 </div>
 
-## Step 3
-
-**Run** your code and check the pen moves.
-
 ## Now run your code
 
-Run your code and check that the turtle moves to a new starting point before it begins drawing.
+Check that the turtle moves to a new starting point before it begins drawing.
+
+<div class="c-project-output">
+
+![blue turtle arrow on a grey background after moving to a new starting point](images/step10.png)
+
+</div>

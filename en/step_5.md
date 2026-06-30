@@ -2,10 +2,6 @@
 
 Replace the code for your square with the following, and experiment to make different shapes.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
-## Step 1
-
 <div class="c-project-code">
 --- code ---
 ---
@@ -29,15 +25,13 @@ for i in range(2):
 --- /code --- 
 </div>
 
-## Step 2
-
-Run the code and it will draw a shape called a parallelogram.
-  
-
-<div class="c-project-output">
- ![ADD TEXT](images/parallelogram.png)
-</div>
-
 ## Now run your code
 
-Run your code and check that the turtle draws a parallelogram.
+Check that the turtle draws a parallelogram.
+
+<div class="c-project-output">
+
+![black parallelogram outline with the turtle arrow at the upper-left corner](images/parallelogram.png)
+
+</div>
+

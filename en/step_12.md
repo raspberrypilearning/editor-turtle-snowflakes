@@ -2,10 +2,6 @@
 
 Put `branch()` in a loop so that it draws it eight times.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
-## Step 1
-
 <div class="c-project-code">
 --- code ---
 ---
@@ -24,17 +20,12 @@ for i in range(8):
 --- /code ---
 </div>
 
-## Step 2
+## Now run your code
 
-**Run** your code, the turtle should be drawing the snowflake.
-
+Check that eight branches join together to make a full snowflake.
 
 <div class="c-project-output">
  
-![](images/snowflake2.png)
+![cyan eight-branch snowflake on a grey background](images/snowflake2.png)
 
 </div>
-
-## Now run your code
-
-Run your code and check that eight branches join together to make a full snowflake.

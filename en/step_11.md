@@ -2,16 +2,7 @@
 
 Write the code to draw one branch of a snowflake.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
-## Step 1
-
-First define a function called `branch`.
-
-## Step 2
-
-Add code indented inside the `branch` function. This is called at the end with `branch()`.
-
+First define a function called `branch`. Then add code indented inside the `branch` function. This is called at the end with `branch()`.
 
 <div class="c-project-code">
 --- code ---
@@ -45,16 +36,20 @@ branch()
 </div>
 
 ## Now run your code
+Check that the code draws one snowflake branch.
 
 <div class="c-project-output">
-![branch](images/branch.PNG)
+
+![single black snowflake branch on a grey background](images/branch.PNG)
+
 </div>
-### Debugging
+
 
 <div class="c-project-callout c-project-callout--debug">
+
+### Debugging
 
 Make sure to check that all your indentation is correct.
 
 </div>
 
-Click **Run** and check that the code draws one snowflake branch.
