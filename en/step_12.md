@@ -29,6 +29,3 @@ Check that eight branches join together to make a full snowflake.
 ![cyan eight-branch snowflake on a grey background](images/snowflake2.png)
 
 </div>
-
-
-
