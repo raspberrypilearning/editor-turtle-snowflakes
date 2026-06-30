@@ -2,10 +2,7 @@
 
 You can put loops inside of other loops to repeat and overlap shapes.
 
-## Step 1
-
 Add an outer loop in the line above `for i in range(2):`. 
-
 
 <div class="c-project-code">
 --- code ---
@@ -30,25 +27,19 @@ for i in range(10):
 --- /code --- 
 </div>
 
-## Step 2
+## Now run your code
 
-**Run** your code to see what happens. You should see a drawing like this:  
-  
+Check that the repeated shape makes a snowflake pattern.
 
 <div class="c-project-output">
 
-![ADD TEXT](images/snowflake1.png)
+![overlapping black parallelogram outlines arranged as a snowflake](images/snowflake1.png)
 </div>
 
-  
-### Tip
-
 <div class="c-project-callout c-project-callout--tip">
+
+### Tip
 
 Make sure to indent the code below a loop.
 
 </div>
-
-## Now run your code
-
-Run your code and check that the repeated shape makes a snowflake pattern.

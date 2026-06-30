@@ -2,8 +2,6 @@
 
 Make every snowflake different.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Add random colours to each branch so that each is a new colour.

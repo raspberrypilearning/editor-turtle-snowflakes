@@ -1,8 +1,6 @@
 <h2 class="c-project-heading--task">Set the background</h2>
 
-Change the colour of the background by adding the code below.
-
-## Step 1
+Change the colour of the background by adding the code below. You can experiment with other colours. 
 
 <div class="c-project-code">
 --- code ---
@@ -17,7 +15,7 @@ import turtle
 
 my_turtle = turtle.Turtle()
 my_turtle.speed(4)
-my_turtle.color('blue')
+my_turtle.color('cyan')
 turtle.Screen().bgcolor('grey')
 
 # Make a shape
@@ -25,15 +23,14 @@ for i in range(10):
 --- /code ---
 </div>
 
-## Step 2
-
-**Run** the code then experiment with other colours. 
-
-<div class="c-project-output">
-Here is an example of the snowflake on a blue background
-![example of the snowflake on a blue background](images/colour.png)
-</div>
-
 ## Now run your code
 
-Run your code and check that the snowflake is drawn on a grey background.
+Check that the snowflake is drawn on a new background colour.
+
+
+<div class="c-project-output">
+Here is an example of the snowflake on a grey background
+
+![cyan snowflake outline on a grey background](images/step8.png)
+
+</div>
