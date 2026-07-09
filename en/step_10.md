@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Make a snowflake</h2>
+## Make a snowflake
 
 Make a new shape that looks like a snowflake.
 
@@ -8,18 +8,9 @@ Make a new shape that looks like a snowflake.
 
 ## Step 2
 
-Start a **new shape** by drawing at the side of the screen add `penup()` and `pendown()` to your code.
+Start a **new shape** by drawing at the side of the screen. Add `penup()` and `pendown()` to your code.
 
-
-<div class="c-project-code">
---- code ---
----
-language: python
-filename: main.py
-line_numbers: true
-line_number_start: 1
-line_highlights: 11-14
----
+```python filename="main.py" line_numbers="true" line_number_start="1" line_highlights="11-14"
 import turtle
 import random
 
@@ -34,15 +25,10 @@ my_turtle.penup()
 my_turtle.forward(90)
 my_turtle.left(45)
 my_turtle.pendown()
---- /code ---
-</div>
+```
 
 ## Now run your code
 
 Check that the turtle moves to a new starting point before it begins drawing.
 
-<div class="c-project-output">
-
 ![blue turtle arrow on a grey background after moving to a new starting point](images/step10.png)
-
-</div>
