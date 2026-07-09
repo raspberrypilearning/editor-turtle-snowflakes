@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Challenge</h2>
+## Challenge
 
 Make every snowflake different.
 
@@ -6,19 +6,10 @@ Make every snowflake different.
 
 Add random colours to each branch so that each is a new colour.
 
-<div class="c-project-code">
---- code ---
----
-language: python
-filename: main.py
-line_numbers: false
-line_number_start: 
-line_highlights: 
----
+```python filename="main.py"
 my_turtle.color(random.choice(colours))
 
---- /code ---
-</div>
+```
 
 ## Step 2
 

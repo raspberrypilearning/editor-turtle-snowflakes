@@ -1,18 +1,10 @@
-<h2 class="c-project-heading--task">Loops in loops</h2>
+## Loops in loops
 
 You can put loops inside of other loops to repeat and overlap shapes.
 
-Add an outer loop in the line above `for i in range(2):`. 
+Add an outer loop in the line above `for i in range(2):`.
 
-<div class="c-project-code">
---- code ---
----
-language: python
-filename: main.py
-line_numbers: true
-line_number_start: 3
-line_highlights: 7-13
----
+```python filename="main.py" line_numbers="true" line_number_start="3" line_highlights="7-13"
 my_turtle = turtle.Turtle()
 my_turtle.speed(4)
 
@@ -24,22 +16,14 @@ for i in range(10):
         my_turtle.forward(100)
         my_turtle.right(120)
     my_turtle.right(36)
---- /code --- 
-</div>
+```
 
 ## Now run your code
 
 Check that the repeated shape makes a snowflake pattern.
 
-<div class="c-project-output">
-
 ![overlapping black parallelogram outlines arranged as a snowflake](images/snowflake1.png)
-</div>
 
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-Make sure to indent the code below a loop.
-
-</div>
+> [!TIP]
+>
+> Make sure to indent the code below a loop.

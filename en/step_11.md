@@ -1,18 +1,10 @@
-<h2 class="c-project-heading--task">Draw a branch</h2>
+## Draw a branch
 
 Write the code to draw one branch of a snowflake.
 
 First define a function called `branch`. Then add code indented inside the `branch` function. This is called at the end with `branch()`.
 
-<div class="c-project-code">
---- code ---
----
-language: python
-filename: main.py
-line_numbers: true
-line_number_start: 10
-line_highlights: 16-28
----
+```python filename="main.py" line_numbers="true" line_number_start="10" line_highlights="16-28"
 # Make a shape
 my_turtle.penup()
 my_turtle.forward(90)
@@ -32,24 +24,14 @@ def branch():
     my_turtle.forward(90)
 
 branch()
---- /code ---
-</div>
+```
 
 ## Now run your code
-Check that the code draws one snowflake branch.
 
-<div class="c-project-output">
+Check that the code draws one snowflake branch.
 
 ![single black snowflake branch on a grey background](images/branch.PNG)
 
-</div>
-
-
-<div class="c-project-callout c-project-callout--debug">
-
-### Debugging
-
-Make sure to check that all your indentation is correct.
-
-</div>
-
+> [!DEBUG]
+>
+> Make sure to check that all your indentation is correct.
